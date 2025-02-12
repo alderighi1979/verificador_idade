@@ -49,4 +49,4 @@ Este projeto é de domínio público. Sinta-se à vontade para usar e modificar 
 
 ## Contato
 
-Para mais informações, entre em contato com [Seu Nome](mailto:seuemail@example.com).
+Para mais informações, entre em contato com [Carlos](mailto:cealderighi@gmail.com).
